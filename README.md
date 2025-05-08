@@ -2,7 +2,6 @@
 
 Bot Discord untuk marketplace dengan sistem pembayaran otomatis via **QRIS** (Xendit). Dibuat menggunakan Node.js dan Discord.js.
 
-![Marketplace Bot Banner](https://repository-images.githubusercontent.com/123456789/marketplace-bot.png)
 
 ## 🚀 Fitur
 
