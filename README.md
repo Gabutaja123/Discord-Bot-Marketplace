@@ -7,7 +7,7 @@ Bot Discord untuk marketplace dengan sistem pembayaran otomatis via **QRIS** (Xe
 
 - 💬 Perintah `!marketplace` untuk melihat daftar item
 - 🛍️ Beli item dengan `!buy <item>`
-- 📸 QRIS dibangkitkan otomatis (OVO, DANA, Gopay)
+- 📸 QRIS otomatis (OVO, DANA, Gopay)
 - 🔔 Bot mendeteksi pembayaran otomatis via webhook
 - 📦 Produk dikirim otomatis via DM
 
