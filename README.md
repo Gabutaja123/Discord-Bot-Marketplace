@@ -48,4 +48,4 @@ https://qr-code.xendit.co/...
 
 ---
 
-> Dibuat dengan ❤️ oleh Developer Bot Marketplace
+> Notes: Available Bug
